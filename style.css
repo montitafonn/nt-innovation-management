@@ -1,0 +1,25 @@
+/* * {
+    font-family: -apple-system, BlinkMacSystemFont, 'Mitr', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: rgb(99, 96, 96);
+  } */
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Mitr', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: rgb(99, 96, 96);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: rgb(99, 96, 96);
+    text-align: center;
+}
+
+p {
+    color: rgb(99, 96, 96);
+    font-family: 'Mitr', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
